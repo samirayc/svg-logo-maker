@@ -1,4 +1,4 @@
-//Used this MDN documentation to find all CSS color keywords:
+//Referred to this MDN documentation for all CSS color keywords:
     //https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
 var colorKeywords = ['aliceblue', 'antiquewhite', 'aqua', 'aquamarine', 'azure', 'beige', 'bisque', 'black', 'blanchedalmond', 'blue',
