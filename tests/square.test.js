@@ -1,4 +1,4 @@
-const Square = require('../Square.js');
+const Square = require('../assets/Square.js');
 
 describe('Square', () => {
     it('should return logo with user choice of shape color, tex, and text color', () => {
